@@ -3,7 +3,7 @@
 
 This code utilizes the execute and builder design patterns that we discussed in class.
 
-:Instructions for demonstrating these patterns 
+Instructions for demonstrating these patterns 
 run "make" 
 run "make run"
 
